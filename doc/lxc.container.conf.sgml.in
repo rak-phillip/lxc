@@ -69,7 +69,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
     </para>
 
     <para>
-      LXC has supports unprivileged containers.  Unprivileged containers are
+      LXC has support for unprivileged containers.  Unprivileged containers are
       containers that are run without any privilege.  This requires support for
       user namespaces in the kernel that the container is run on.  LXC was the
       first runtime to support unprivileged containers after user namespaces
